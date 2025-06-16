@@ -1,0 +1,25 @@
+/* html {
+
+} */
+
+div {
+  background-color: brown;
+  margin: 10%;
+  padding: 20px;
+}
+
+.redbackground {
+  background-color: red;
+}
+
+.photo {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.flexy {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
